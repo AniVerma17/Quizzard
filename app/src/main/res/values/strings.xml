@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Quizzard</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="submit_button_val">Submit Quiz</string>
+    <string name="json_data">
+        [ 
+                  { 
+                    \"ques\":\"Which team is the defending champions of IPL?\", 
+                    \"option1\":\"Mumbai Indians\", 
+                    \"option2\":\"Kolkata Knight Riders\", 
+                    \"option3\":\"Sunrisers Hyderabad\", 
+                    \"answer\":\"Mumbai Indians\" 
+                  }, 
+                  { 
+                    \"ques\":\"How many characters died in Avengers:Infinity War?\", 
+                    \"option1\":\"14\", 
+                    \"option2\":\"13\", 
+                    \"option3\":\"16\", 
+                    \"answer\":\"16\" 
+                  }, 
+                  { 
+                    \"ques\":\"Which firm was associated with Facebook\'s recent data leak incident?\",
+                    \"option1\":\"WikiLeaks\", 
+                    \"option2\":\"Cambridge Analytica\", 
+                    \"option3\":\"Hotjar\", 
+                    \"answer\":\"Cambridge Analytica\" 
+                  }, 
+                  { 
+                    \"ques\":\"Which of the following automobile company is not a subsidiary of Volkswagen group?\", 
+                    \"option1\":\"Audi\", 
+                    \"option2\":\"BMW\", 
+                    \"option3\":\"Porsche\", 
+                    \"answer\":\"BMW\" 
+                  }, 
+                  { 
+                    \"ques\":\"Zend, Symfony and Yii are frameworks of which programming language?\", 
+                    \"option1\":\"PHP\", 
+                    \"option2\":\"Python\", 
+                    \"option3\":\"Ruby\", 
+                    \"answer\":\"PHP\" 
+                  }]
+    </string>
+</resources>
